@@ -1,7 +1,7 @@
 {
   "name": "@zenithswap/lib",
-  "version": "0.1.0",
-  "description": "Zenith Swap Library",
+  "version": "0.1.1",
+  "description": "📚 Zenith Swap Library",
   "files": [
     "contracts",
     "!contracts/test"
